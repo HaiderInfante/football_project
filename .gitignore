@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.entorno_virtual/
+.env/
+
+# VSCode
+.vscode/
+
+# Otros
+.DS_Store
