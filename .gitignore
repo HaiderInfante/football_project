@@ -8,7 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Entornos virtuales
-.entorno_virtual/
+.entorno_football/
 .env/
 
 # VSCode
